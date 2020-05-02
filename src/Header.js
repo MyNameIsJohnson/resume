@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <header className="resume-header container">
-        <img className="headshot" alt="headshot" src="../public/headshot.png"/>
+        <img className="headshot" alt="headshots" src="/../../public/headshot.png"/>
         <h1 className="resume-title">Johnson Le Thieu</h1>
         <h2><i>Full-Stack Software Engineer</i></h2>
         <p>(626) 346-4095 | johnsonle2929@gmail.com</p>
