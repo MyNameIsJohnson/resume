@@ -4,6 +4,7 @@ import Summary from "./Summary";
 import Work from "./Work";
 import Projects from "./Projects";
 import Education from "./Education";
+import Footer from "./Footer";
 
 
 
@@ -49,6 +50,7 @@ class App extends Component {
         />
         <Education 
         />
+        <Footer />
         </div>
     );
   }
