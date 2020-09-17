@@ -6,7 +6,7 @@ class Work extends Component{
     return(
       <div className="work container">
         <h3><b>WORK EXPERIENCE</b></h3>
-          <h4>Product Engineering Intern, <a href="https://www.frontdoorhome.com/"></a> Denver, CO, June 2020 - September 2020</h4>
+          <h4>Product Engineering Intern, <a href="https://www.frontdoorhome.com/">Frontdoor Inc.</a> Denver, CO, June 2020 - September 2020</h4>
           <ul>
             <li>Collaborating with colleagues from multidisciplinary science and engineering</li>
             <li>Building components for company component-library using React.js</li>
