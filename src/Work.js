@@ -6,6 +6,13 @@ class Work extends Component{
     return(
       <div className="work container">
         <h3><b>WORK EXPERIENCE</b></h3>
+        <h4>Product Engineering Intern, <a href="https://www.frontdoorhome.com/"></a> Denver, CO, June 2020 - September 2020</h4>
+          <ul>
+            <li>Collaborating with colleagues from multidisciplinary science and engineering</li>
+            <li>Building components for company component-library using React.js</li>
+            <li>Writing documents of component design and dashboard to analyze key inputs to internal systems</li>
+          </ul>
+          <h4>Candidate Experience Representative, <a href="www.checker.com">Checkr Inc.</a> San Francisco, February 2018 - January 2020 </h4>
           <h4>Candidate Experience Representative, <a href="">Checkr Inc.</a> San Francisco, February 2018 - January 2020 </h4>
           <ul>
             <li>Utilized Checkr Dashboard, Zendesk, and Looker providing a 90% above quality average. Assist candidate callers with their background check reports, to produce a “5 star candidate experience”.</li>
